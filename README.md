@@ -12,6 +12,6 @@ No.	Class of ship	    Size
 5	   Destroyer         2
 
 
-![alt text](https://en.wikipedia.org/wiki/Battleship_(game)#/media/File:Battleship_game_board.svg)
+![alt text](https://github.com/sarhana-adh/Battleship/blob/master/Battleship_game_board.svg)
 
 
